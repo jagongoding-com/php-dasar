@@ -13,6 +13,9 @@ Nama file untuk setiap kode program telah disesuaikan dengan urutan masing-masin
 3. [Macam-Macam Operator](https://jagongoding.com/web/php/dasar/macam-macam-operator/)
 4. [Logika Percabangan](https://jagongoding.com/web/php/dasar/logika-percabangan/)
 5. [Perulangan](https://jagongoding.com/web/php/dasar/perulangan/)
+6. [Fungsi (1/3)](https://jagongoding.com/web/php/dasar/fungsi/)
+7. [Fungsi (2/3)](https://jagongoding.com/web/php/dasar/fungsi-bagian-2/)
+8. [Fungsi Rekursif (3/3)](https://jagongoding.com/web/php/dasar/fungsi-rekursif/)
 
 ## Author
 
