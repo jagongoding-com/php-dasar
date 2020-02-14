@@ -12,6 +12,21 @@ var_dump(array_values($listBuah));
 
 echo "<hr>";
 
+$mahasiswa = "Andi Budi Deni Edwin Fajar Hendra";
+var_dump(explode(" ", $mahasiswa));
+
+echo "<hr>";
+
+$mahasiswa = ['Huda', 'Lendis', 'Elmo'];
+
+echo implode(" ", $mahasiswa) . "<br>"; // Huda Lendis Elmo
+echo implode("*", $mahasiswa) . "<br>"; // Huda*Lendis*Elmo
+echo implode(",", $mahasiswa) . "<br>"; // Huda,Lendis,Elmo
+echo implode(", ", $mahasiswa) . "<br>"; // Huda, Lendis, Elmo
+echo implode(" wkwk ", $mahasiswa) . "<br>"; // Huda wkwk Lendis wkwk Elmo
+
+echo "<hr>";
+
 $distroLinux = ['Ubuntu', 'Arch Linux', 'Elementary OS'];
 
 var_dump(array_search('Arch Linux', $distroLinux));
