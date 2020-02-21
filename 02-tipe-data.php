@@ -63,8 +63,8 @@ echo "<br>";
 
 <?php
 
-$namaDepan = "Ibnu"; # pakai tanda petik satu
-$namaBelakang = 'Jakaria'; # pakai tanda petik dua
+$namaDepan = "Ibnu"; # pakai tanda petik dua
+$namaBelakang = 'Jakaria'; # pakai tanda petik satu
 
 # menggabungkan dua variabel di atas dengan wajib dengan tanda
 # petik dua
