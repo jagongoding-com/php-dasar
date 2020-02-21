@@ -113,10 +113,10 @@
   <h2>Operator Logika</h2>
 
   <?php
-  $a = true && true; # -> true
-  $b = true and false; # -> false
-  $c = false && false; # -> false
-  $d = true || false; # -> false
+  $a = true && true; # true
+  $b = true and false; # false
+  $c = false && false; # false
+  $d = true || false; # false
 
   # ekspresi berikut akan diselesaikan dari kiri ke kanan
   $e = true && false && false;
