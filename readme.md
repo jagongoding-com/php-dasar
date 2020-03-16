@@ -1,6 +1,6 @@
 ## Seri Tutorial Belajar PHP Dasar
 
-Ini adalah [seri tutorial belajar php dasar](https://jagongoding.com/web/php/dasar) pada situs [jagongoding.com](https://jagongoding.com).
+Ini adalah [seri tutorial belajar php dasar](https://jagongoding.com/web/php/dasar/overview/) pada situs [jagongoding.com](https://jagongoding.com).
 
 Setiap kode program yang dimuat pada seri tutorial tersebut, insyaallah akan diupload di dalam repositori ini. 
 
