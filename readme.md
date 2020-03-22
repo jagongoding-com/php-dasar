@@ -16,6 +16,7 @@ Nama file untuk setiap kode program telah disesuaikan dengan urutan masing-masin
 6. [Fungsi (1/3)](https://jagongoding.com/web/php/dasar/fungsi/)
 7. [Fungsi (2/3)](https://jagongoding.com/web/php/dasar/fungsi-bagian-2/)
 8. [Fungsi Rekursif (3/3)](https://jagongoding.com/web/php/dasar/fungsi-rekursif/)
+9. [Manipulasi String](https://jagongoding.com/web/php/dasar/manipulasi-string/)
 
 ## Author
 
