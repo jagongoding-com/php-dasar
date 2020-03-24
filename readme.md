@@ -18,6 +18,7 @@ Nama file untuk setiap kode program telah disesuaikan dengan urutan masing-masin
 8. [Fungsi Rekursif (3/3)](https://jagongoding.com/web/php/dasar/fungsi-rekursif/)
 9. [Manipulasi String](https://jagongoding.com/web/php/dasar/manipulasi-string/)
 10. [Bekerja Dengan Array](https://jagongoding.com/web/php/dasar/bekerja-dengan-array/)
+11. [Fungsi Matematika](https://jagongoding.com/web/php/dasar/fungsi-matematika/)
 
 ## Author
 
