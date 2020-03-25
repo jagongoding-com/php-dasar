@@ -19,6 +19,7 @@ Nama file untuk setiap kode program telah disesuaikan dengan urutan masing-masin
 9. [Manipulasi String](https://jagongoding.com/web/php/dasar/manipulasi-string/)
 10. [Bekerja Dengan Array](https://jagongoding.com/web/php/dasar/bekerja-dengan-array/)
 11. [Fungsi Matematika](https://jagongoding.com/web/php/dasar/fungsi-matematika/)
+12. [Membuat Deret Fibonaccy](https://jagongoding.com/web/php/dasar/teka-teki-fibonacci/)
 
 ## Author
 
